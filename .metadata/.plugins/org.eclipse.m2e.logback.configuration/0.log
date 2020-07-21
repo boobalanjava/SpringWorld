@@ -1,1 +1,52 @@
 2020-07-21 18:14:00,205 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-07-21 18:16:50,726 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.aws:SpringBootAWS-CI-CD-AWSPipeline:0.0.1-SNAPSHOT @ C:\Personal\Development_WorkSpace\SpringWorld\SpringBootAWS-CI-CD-AWSPipeline\pom.xml.
+2020-07-21 18:16:51,382 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.aws:SpringBootAWS-SNS:0.0.1-SNAPSHOT @ C:\Personal\Development_WorkSpace\SpringWorld\SpringBootAWS-SNS\pom.xml.
+2020-07-21 18:16:51,846 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud.client:SpringCloudClient:0.0.1-SNAPSHOT @ C:\Personal\Development_WorkSpace\SpringWorld\SpringCloudClient\pom.xml.
+2020-07-21 18:16:52,190 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.client:SpringCloudClient1:0.0.1-SNAPSHOT @ C:\Personal\Development_WorkSpace\SpringWorld\SpringCloudClient1\pom.xml.
+2020-07-21 18:16:52,436 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.springcloud.server:SpringCloudServer:0.0.1-SNAPSHOT @ C:\Personal\Development_WorkSpace\SpringWorld\SpringCloudServer\pom.xml.
+2020-07-21 18:16:54,267 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootAWS-SNS/src/main/java
+2020-07-21 18:16:54,268 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootAWS-SNS/src/main/resources
+2020-07-21 18:16:54,273 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootAWS-SNS/src/main/resources
+2020-07-21 18:16:54,278 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootAWS-SNS/src/test/java
+2020-07-21 18:16:55,379 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCloudClient1/src/main/java
+2020-07-21 18:16:55,380 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCloudClient1/src/main/resources
+2020-07-21 18:16:55,384 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCloudClient1/src/main/resources
+2020-07-21 18:16:55,390 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCloudClient1/src/test/java
+2020-07-21 18:16:55,926 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCloudClient/src/main/java
+2020-07-21 18:16:55,927 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCloudClient/src/main/resources
+2020-07-21 18:16:55,931 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCloudClient/src/main/resources
+2020-07-21 18:16:55,937 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCloudClient/src/test/java
+2020-07-21 18:16:56,460 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCloudServer/src/main/java
+2020-07-21 18:16:56,460 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCloudServer/src/main/resources
+2020-07-21 18:16:56,465 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringCloudServer/src/main/resources
+2020-07-21 18:16:56,469 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringCloudServer/src/test/java
+2020-07-21 18:16:56,901 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootAWS-CI-CD-AWSPipeline/src/main/java
+2020-07-21 18:16:56,901 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootAWS-CI-CD-AWSPipeline/src/main/resources
+2020-07-21 18:16:56,901 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpringBootAWS-CI-CD-AWSPipeline/src/main/resources
+2020-07-21 18:16:56,902 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringBootAWS-CI-CD-AWSPipeline/src/test/java
+2020-07-21 18:16:57,042 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 5 project(s) in 11 sec
+2020-07-21 18:16:58,971 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-21 18:16:58,977 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-21 18:16:58,993 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-21 18:16:58,996 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-21 18:16:58,996 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Personal\Development_WorkSpace\SpringWorld\SpringBootAWS-CI-CD-AWSPipeline\src\test\resources
+2020-07-21 18:17:00,744 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-21 18:17:00,744 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-21 18:17:00,746 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-21 18:17:00,748 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-21 18:17:00,748 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Personal\Development_WorkSpace\SpringWorld\SpringBootAWS-SNS\src\test\resources
+2020-07-21 18:17:01,627 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-21 18:17:01,628 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-21 18:17:01,629 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-21 18:17:01,630 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-21 18:17:01,631 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Personal\Development_WorkSpace\SpringWorld\SpringCloudClient\src\test\resources
+2020-07-21 18:17:02,381 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-21 18:17:02,382 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-21 18:17:02,384 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-21 18:17:02,385 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-21 18:17:02,385 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Personal\Development_WorkSpace\SpringWorld\SpringCloudClient1\src\test\resources
+2020-07-21 18:17:03,099 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-21 18:17:03,099 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-21 18:17:03,101 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-07-21 18:17:03,102 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-21 18:17:03,102 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Personal\Development_WorkSpace\SpringWorld\SpringCloudServer\src\test\resources
