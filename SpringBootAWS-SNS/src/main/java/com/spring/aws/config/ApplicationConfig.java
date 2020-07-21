@@ -15,8 +15,8 @@ import com.amazonaws.services.sns.AmazonSNSClientBuilder;
 @Configuration
 public class ApplicationConfig {
 	
-	private static final String ACCESS_KEY = "infra.aws.accessKey";
-	private static final String SECRET_KEY = "infra.aws.secertKey"; 
+	private static final String ACCESS_KEY = "cloud.aws.credentials.access-key";
+	private static final String SECRET_KEY = "cloud.aws.credentials.secret-key"; 
 	
 	@Autowired Environment env;
 
