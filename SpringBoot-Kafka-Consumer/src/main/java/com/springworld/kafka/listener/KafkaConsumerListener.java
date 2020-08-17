@@ -5,6 +5,7 @@ import org.springframework.stereotype.Service;
 
 import com.springworld.kafka.model.DataInfo;
 
+
 @Service
 public class KafkaConsumerListener {
 
@@ -14,3 +15,4 @@ public class KafkaConsumerListener {
         System.out.println("Consumed Message: " + user);
     }
 }
+

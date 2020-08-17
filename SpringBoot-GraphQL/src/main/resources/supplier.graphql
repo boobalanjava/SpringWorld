@@ -1,0 +1,15 @@
+schema{
+query:Query
+}
+
+type Query{
+suppliertList:[SupplierData]
+supplierData(supplierID:Long): SupplierData
+}
+
+type SupplierData{
+	supplierID: Long 
+	customerName: String
+	products: [String]
+	country: String
+}
