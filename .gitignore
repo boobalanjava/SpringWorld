@@ -3,3 +3,4 @@
 SpringBoot-GraphQL/mvnw
 *.log
 SpringBoot-SpringBatch/mvnw
+*.jar
