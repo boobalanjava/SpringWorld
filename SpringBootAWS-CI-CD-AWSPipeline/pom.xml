@@ -76,5 +76,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>springboot-aws-ci-cd</finalName>
 	</build>
 </project>
